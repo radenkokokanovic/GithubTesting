@@ -13,25 +13,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println("Testiranje 2 ");
-        
-        // Instantiate a Date object
-        Date date = new Date();
-
-        // display time and date using toString()
-        System.out.println(date.toString());
-        
-        Date datum = new Date();
-        
-        System.out.println("Datum je "+datum);
-        
-        System.out.println("Moja metoda je ");
-        Datum();
-        pretragaTeksta("Testiranje test 1234444", "\\d+");
-        System.out.println("Test2 ");
-        System.out.println("Test 3");
-        System.out.println("Test4");
+      System.out.println("Test key");
     }
     
     
