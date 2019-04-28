@@ -30,6 +30,7 @@ public class App
         Datum();
         pretragaTeksta("Testiranje test 1234444", "\\d+");
         System.out.println("Test2 ");
+        System.out.println("Test 3");
     }
     
     
