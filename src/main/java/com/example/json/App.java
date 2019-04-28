@@ -17,6 +17,7 @@ public class App
       System.out.println("Testiranje 2");
       System.out.println("Testiranje 3");
       System.out.println("Testiranje 4");
+      System.out.println("Testiranje 5");
     }
     
     
