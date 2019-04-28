@@ -15,6 +15,7 @@ public class App
     {
       System.out.println("Test key");
       System.out.println("Testiranje 2");
+      System.out.println("Testiranje 3");
     }
     
     
