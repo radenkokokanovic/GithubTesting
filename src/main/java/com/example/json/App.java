@@ -1,4 +1,4 @@
-package com.example.json.MavenTestiranje;
+package com.example.json;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -29,7 +29,7 @@ public class App
         System.out.println("Moja metoda je ");
         Datum();
         pretragaTeksta("Testiranje test 1234444", "\\d+");
-        System.out.println("Test");
+        System.out.println("Test2 ");
     }
     
     

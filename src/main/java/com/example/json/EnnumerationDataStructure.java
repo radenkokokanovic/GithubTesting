@@ -1,4 +1,4 @@
-package com.example.json.MavenTestiranje;
+package com.example.json;
 
 import java.util.Enumeration;
 import java.util.Vector;
