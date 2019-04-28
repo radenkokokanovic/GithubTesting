@@ -31,6 +31,7 @@ public class App
         pretragaTeksta("Testiranje test 1234444", "\\d+");
         System.out.println("Test2 ");
         System.out.println("Test 3");
+        System.out.println("Test4");
     }
     
     
